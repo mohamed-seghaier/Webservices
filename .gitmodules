@@ -9,3 +9,4 @@
 [submodule "webservices-film-api"]
 	path = webservices-film-api
 	url = git@github.com:NANS05/webservices-film-api.git
+	branch = main
