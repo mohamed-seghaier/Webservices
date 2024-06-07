@@ -4,6 +4,7 @@
 [submodule "Resevation"]
 	path = Resevation
 	url = git@github.com:Jaff5090/Resevation.git
+	branch = master
 [submodule "webservices-film-api"]
 	path = webservices-film-api
 	url = git@github.com:NANS05/webservices-film-api.git
