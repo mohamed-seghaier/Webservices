@@ -1,6 +1,7 @@
 [submodule "Auth"]
 	path = Auth
 	url = git@github.com:rugak/Auth.git
+	branch = main
 [submodule "Resevation"]
 	path = Resevation
 	url = git@github.com:Jaff5090/Resevation.git
