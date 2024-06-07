@@ -1,0 +1,9 @@
+[submodule "Auth"]
+	path = Auth
+	url = git@github.com:rugak/Auth.git
+[submodule "Resevation"]
+	path = Resevation
+	url = git@github.com:Jaff5090/Resevation.git
+[submodule "webservices-film-api"]
+	path = webservices-film-api
+	url = git@github.com:NANS05/webservices-film-api.git
