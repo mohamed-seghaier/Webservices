@@ -2,7 +2,7 @@
 
 ## Project Members
 - **ZIANE Akli**
-- **BEN HSSAN Jaafar**
+- **BEN HSSAN Jaffar**
 - **NANS Maurel**
 - **SEGHAIER Mohamed-Ali**
 
