@@ -1,12 +1,12 @@
 [submodule "Auth"]
 	path = Auth
 	url = git@github.com:rugak/Auth.git
-	branch = main
+	branch = webservices
 [submodule "Resevation"]
 	path = Resevation
 	url = git@github.com:Jaff5090/Resevation.git
-	branch = master
+	branch = webservices
 [submodule "webservices-film-api"]
 	path = webservices-film-api
 	url = git@github.com:NANS05/webservices-film-api.git
-	branch = main
+	branch = webservices
