@@ -32,6 +32,7 @@ def update_and_checkout_submodules() -> None:
         if submodule_path and submodule_branch:
             print(f"Checking {submodule_path} to {submodule_branch}")
             run_command(f"git checkout {submodule_branch}", cwd=submodule_path)
+            run_command(f"git pull --rebase", cwd=submodule_path)
 
 def main() -> None:
     """
