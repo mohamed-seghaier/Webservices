@@ -10,3 +10,7 @@
 	path = webservices-film-api
 	url = git@github.com:NANS05/webservices-film-api.git
 	branch = webservices
+[submodule "reservation-app"]
+	path = reservation-app
+	url = git@github.com:rugak/reservation-app.git
+	branch = webservices
