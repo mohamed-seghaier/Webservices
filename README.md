@@ -12,7 +12,7 @@
 - **WSL or CYGWIN**  to run bash scripts | or just skip steps 3 and 4 by running the following command after the 2nd step, each time you want to pull or clone the project :
 
 ```sh
-.scripts/update.py
+python3 .scripts/update.py
 ```
 
 #### GNU/Linux
