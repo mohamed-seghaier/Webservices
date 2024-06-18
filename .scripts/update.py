@@ -9,7 +9,7 @@ def run_command(command: str, cwd: str = None) -> None:
         print(result.stdout)
 
 def get_submodules_branches() -> Dict:
-    submodules : Dict 
+    submodules : Dict = {}
     with open('.gitmodules', 'r') as file:
         lines = file.readlines()
         current_submodule = None
