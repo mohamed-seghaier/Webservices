@@ -24,6 +24,7 @@ def get_submodules_branches() -> Dict:
     return submodules
 
 def update_and_checkout_submodules() -> None:
+    run_command("git pull --rebase")
     run_command("git submodule update --init --recursive --remote")
     submodules = get_submodules_branches()
     for name, info in submodules.items():
