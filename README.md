@@ -16,7 +16,7 @@ python3 .scripts/update.py
 ```
 
 #### GNU/Linux
-Python3
+- **Python3**
 
 ## Installation Instructions
 
